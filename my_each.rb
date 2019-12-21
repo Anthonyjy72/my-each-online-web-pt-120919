@@ -6,6 +6,8 @@ def my_each(array)
   end
 end
 
+my_each(list) {|i| puts "So I think #{i} is great"}
+
 def hello(array)
   i = 0
   collection = []
