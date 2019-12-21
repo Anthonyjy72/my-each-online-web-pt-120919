@@ -8,7 +8,7 @@ def my_each(array)
   end
 end
 
-my_each(list) {|i| puts "So I think #{i} is great"}
+my_each(list) {|i| puts "I think #{i} is great"}
 
 
 def hello(array)
